@@ -21,13 +21,13 @@
         "ScriptName": "Blade Ball Auto Parry",
         "Author": "Unknown",
         "ScriptContent": "loadstring(game:HttpGet('https://rawscripts.net/raw/UPD-Blade-Ball-op-autoparry-with-visualizer-8652'))()",
-        "ScriptImage": "wp13320683__1__removebg_preview"
+        "ScriptImage": "bladeball"
     },
     {
         "ScriptName": "Blox Fruits Redz Hub",
         "Author": "Redz",
         "ScriptContent": "loadstring(game:HttpGet('https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua'))()",
-        "ScriptImage": "Z_removebg_preview"
+        "ScriptImage": "bloxfruits"
     },
     {
         "ScriptName": "Animations FE",
