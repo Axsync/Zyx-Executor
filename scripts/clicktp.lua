@@ -14,8 +14,8 @@ if _G.clicktp == nil then
 else
 	_G.clicktp = not _G.clicktp
 	if _G.clicktp then
-		game.StarterGui:SetCore("SendNotification", {Title="Zyx"; Text="ClickTP Enabled Press Ctrl + MB1"; Duration=5;})
+		game.StarterGui:SetCore("SendNotification", {Title="Zyx"; Text="ClickTP Enabled Press LCtrl + MB1"; Duration=4;})
 	else
-		game.StarterGui:SetCore("SendNotification", {Title="Zyx"; Text="ClickTP Disabled"; Duration=5;})
+		game.StarterGui:SetCore("SendNotification", {Title="Zyx"; Text="ClickTP Disabled"; Duration=4;})
 	end
 end
