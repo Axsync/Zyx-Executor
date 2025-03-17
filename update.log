@@ -1,5 +1,9 @@
 Update log:
-[v1.6] (3/13/25)
-- Patch fixes
-- UI Redesign
-- Scripts updated
+[v1.8] (3/17/25)
+- Fixed small delay on editor theme
+- Changed main menu to new User Panel
+- Removed PREMIUM ENTIRELY
+- Moved shaders script to button scripts
+- Added option: Ignore ban wave warnings -> settings
+- Rewrote license system
+- UI update
