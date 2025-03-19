@@ -1,9 +1,5 @@
 Update log:
-[v1.8] (3/17/25)
-- Fixed small delay on editor theme
-- Changed main menu to new User Panel
-- Removed PREMIUM ENTIRELY
-- Moved shaders script to button scripts
-- Added option: hide ban wave warnings
-- Rewrote license system
-- UI update
+[v1.9] (3/17/25)
++ Floating Overlay
+- MANY PATCH FIXES
+- Added SFX
