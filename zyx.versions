@@ -1,5 +1,5 @@
-[ZYX] = 1.9
-[API] = 1.5
+[ZYX] = 2.0
+[API] = 1.6
 [Monaco] = 1.4
 [CefSharp] = 1.1
 [CoreDeps] = 1.1
